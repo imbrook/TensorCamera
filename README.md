@@ -355,4 +355,4 @@ $ yarn add @tensorflow/tfjs @tensorflow/tfjs-react-native @tensorflow-models/mob
 
 ### **🐵 코드 작성**
 
-### **`App.js` 확인**
+### [`App.js` 확인](https://github.com/imbrook/TensorCamera/blob/master/App.js)
