@@ -6,10 +6,6 @@ React Native CLI에서 mobilenet 모델과 tensorflow.js를 이용해 사물인�
 
 ## **Getting started**
 
----
-
-<br>
-
 ### **💡 프로젝트 생성하기**
 
 `React Native CLI`를 이용해 프로젝트를 생성해준다.
@@ -359,4 +355,4 @@ $ yarn add @tensorflow/tfjs @tensorflow/tfjs-react-native @tensorflow-models/mob
 
 ### **🐵 코드 작성**
 
-### **`App.js`**
+### **`App.js` 확인**
