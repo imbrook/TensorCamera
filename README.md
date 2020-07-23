@@ -169,7 +169,7 @@ dependencies {
 ```java
 package com.tensorcamera;
 
-// 추가
+// 추가 (아래 com.tensorcamera... 패키지명을 기재해야한다)
 import com.tensorcamera.generated.BasePackageList;
 import org.unimodules.adapters.react.ModuleRegistryAdapter;
 import org.unimodules.adapters.react.ReactModuleRegistryProvider;
